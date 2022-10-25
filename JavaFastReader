@@ -67,7 +67,7 @@ public class Main{
             }
             out.close();
         } catch (Exception e) {
-            e.printStackTrace() 
+            e.printStackTrace() ;
             return;
         }
     }
